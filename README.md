@@ -36,9 +36,8 @@ AV-MapNet-IDRiD-Vessel-Annotations/
 │
 ├── README.md
 │
-├── annotations/
-│   ├── IDRiD_XX_vessel.png
-│   ├── IDRiD_XX_vessel.png
+├── IDRiD_XX_vessel.png
+│── IDRiD_XX_vessel.png
 │   └── ...
 │
 ├── metadata.csv
